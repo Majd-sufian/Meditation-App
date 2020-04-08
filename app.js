@@ -59,7 +59,7 @@ const checkPlaying = song => {
     play.src = "./svg/pause.svg";
   } else {
     song.pause();
-    video.pause();
+    video.pause(); 
     play.src = "./svg/play.svg";
   }
 };
