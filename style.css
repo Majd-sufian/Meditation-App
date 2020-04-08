@@ -91,3 +91,9 @@ video {
   width: 100%;
   z-index: -10;
 }
+
+.play {
+  position: relative;
+  top: 14%;
+   cursor: pointer
+}
